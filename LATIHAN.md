@@ -7,4 +7,12 @@ Yang sedang dipelajari:
 - Commit = titik simpan, pesannya: Latihan 1: commit pertama di repo test
 - Branch main = cabang utama proyek
 
-Langkah berikutnya dalam latihan: buat branch baru, ubah file ini di branch itu, lalu buat pull request ke main.
+## Latihan 2: Branch
+
+Perubahan ini dibuat di branch latihan-2, BUKAN di main.
+
+Jadi file di main masih versi lama, sedangkan file di branch latihan-2 sudah ada tambahan ini.
+
+Branch itu seperti fotokopi tugas: Bos bisa corat-coret bebas tanpa merusak yang asli.
+
+Langkah berikutnya: buat pull request dari latihan-2 ke main, supaya perubahan ini bisa digabungkan.
